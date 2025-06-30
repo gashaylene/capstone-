@@ -1,0 +1,60 @@
+
+/* Website Styles */
+
+body{
+   
+    background-color:#dda15e;
+    color:#fdf0d5;
+    font-family:Times New Roman,Libertinus Math,Roboto;
+    text-align: center;
+}
+h1{
+    color:#606c38;
+    background-color: #540b03;
+    font-family:Parisienne,New Roman,Libertinus;
+    font-weight:bold;
+
+}
+
+h2{
+    color:#606c38;
+}
+
+ul{
+    color:#540b0e;
+}
+
+ol{
+    color:#540b03;
+}
+
+p{
+    color:#003049;
+}
+
+footer{
+    color:#5e503f;
+}
+
+span{
+    color:#606c38;
+    font-weight:bold;
+    font-style:italic;
+    font-variant:small-caps;
+}
+
+p{
+    font-size:20px;
+}
+
+li{
+    line-height:3;
+}
+
+a {
+  color: rgba(255, 0, 0, 0.392);
+  text-decoration:none;
+}
+a:hover{
+    text-decoration:underline;
+}
