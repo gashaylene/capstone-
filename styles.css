@@ -7,6 +7,13 @@ body{
     color:#fdf0d5;
     font-family:Times New Roman,Libertinus Math,Roboto;
     text-align: center;
+    margin:10px 40px 30px 50px;
+    border: 13px solid burlywood;
+    line-height: 1;
+    padding: 90px 50 px;
+    box-sizing: border-box;
+
+}
 }
 h1{
     color:#606c38;
@@ -57,4 +64,39 @@ a {
 }
 a:hover{
     text-decoration:underline;
+}
+footer p {
+    font-size: 25px;
+}
+
+h1, h2, h3 {
+  margin-bottom: 20px;
+}
+
+ul, ol {
+  margin: 15px 0;
+}
+
+header {
+  border-bottom: 5px dashed brown;
+}
+
+.title {
+  font-size: 48px;
+  text-decoration: underline;
+}
+
+#about{
+    background-color:#d6ccc2;
+    margin:0 400px;
+}
+
+.my-list{
+    list-style-position:inside;
+    padding-left:1.5em;         
+    line-height:1.5;            
+}
+
+.my-list li{
+   margin-bottom:0.5em; 
 }
